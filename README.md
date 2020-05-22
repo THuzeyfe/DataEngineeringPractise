@@ -18,6 +18,7 @@ Python 3 programming language. All necessary libraries are installed within the 
 * **models/ :** This folder contains machine learning processings.
     * **train_classifier.py :** Loads data from 'MessagesWithCategories' database, build a proper model trained with the data and save it.
     * **classifier.pkl :** This file stores the model that is built in python file.
+ * **licence.txt :** licence file
  * **README.md :** The information file you are currently reading.
  ### Instructions:
 1. Run the following comment to obtain spacedomain and space id.
